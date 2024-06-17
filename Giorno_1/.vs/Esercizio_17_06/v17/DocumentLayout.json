@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|c:\\users\\andre\\desktop\\epicode1\\m4\\m4_prima_settimana\\giorno_1\\esercizio_17_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|solutionrelative:esercizio_17_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|c:\\users\\andre\\desktop\\epicode1\\m4\\m4_prima_settimana\\giorno_1\\esercizio_17_06\\esercizio_17_06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|solutionrelative:esercizio_17_06\\esercizio_17_06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|c:\\users\\andre\\desktop\\epicode1\\m4\\m4_prima_settimana\\giorno_1\\esercizio_17_06\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|solutionrelative:esercizio_17_06\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|c:\\users\\andre\\desktop\\epicode1\\m4\\m4_prima_settimana\\giorno_1\\esercizio_17_06\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|solutionrelative:esercizio_17_06\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|c:\\users\\andre\\desktop\\epicode1\\m4\\m4_prima_settimana\\giorno_1\\esercizio_17_06\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|solutionrelative:esercizio_17_06\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|c:\\users\\andre\\desktop\\epicode1\\m4\\m4_prima_settimana\\giorno_1\\esercizio_17_06\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0C92F-C0F9-454F-96F1-2B2D3BD467AF}|Esercizio_17_06\\Esercizio_17_06.csproj|solutionrelative:esercizio_17_06\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Atleta.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Atleta.cs",
+              "RelativeDocumentMoniker": "Esercizio_17_06\\Atleta.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Atleta.cs",
+              "RelativeToolTip": "Esercizio_17_06\\Atleta.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:38:26.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veicolo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Veicolo.cs",
+              "RelativeDocumentMoniker": "Esercizio_17_06\\Veicolo.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Veicolo.cs",
+              "RelativeToolTip": "Esercizio_17_06\\Veicolo.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA3wDQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:32:01.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Animale.cs",
+              "RelativeDocumentMoniker": "Esercizio_17_06\\Animale.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Animale.cs",
+              "RelativeToolTip": "Esercizio_17_06\\Animale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:27:09.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dipendente.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Dipendente.cs",
+              "RelativeDocumentMoniker": "Esercizio_17_06\\Dipendente.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Dipendente.cs",
+              "RelativeToolTip": "Esercizio_17_06\\Dipendente.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:19:03.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Esercizio_17_06.csproj",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Esercizio_17_06.csproj",
+              "RelativeDocumentMoniker": "Esercizio_17_06\\Esercizio_17_06.csproj",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Esercizio_17_06.csproj",
+              "RelativeToolTip": "Esercizio_17_06\\Esercizio_17_06.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T12:09:11.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio_17_06\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_1\\Esercizio_17_06\\Program.cs",
+              "RelativeToolTip": "Esercizio_17_06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:09:00.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
