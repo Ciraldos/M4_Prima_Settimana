@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conto Corrente", "Conto Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomiArray", "..\NomiArray\NomiArray.csproj", "{38551C00-083D-4FD9-B293-C62B785A751F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SommaArray", "..\SommaArray\SommaArray.csproj", "{1C84B95E-6FF2-4CF8-8896-E5B6F9B3F548}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{38551C00-083D-4FD9-B293-C62B785A751F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38551C00-083D-4FD9-B293-C62B785A751F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38551C00-083D-4FD9-B293-C62B785A751F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C84B95E-6FF2-4CF8-8896-E5B6F9B3F548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C84B95E-6FF2-4CF8-8896-E5B6F9B3F548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C84B95E-6FF2-4CF8-8896-E5B6F9B3F548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C84B95E-6FF2-4CF8-8896-E5B6F9B3F548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

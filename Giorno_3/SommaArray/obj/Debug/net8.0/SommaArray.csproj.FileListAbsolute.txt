@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\SommaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\SommaArray.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\SommaArray.AssemblyInfo.cs
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\SommaArray.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\SommaArray.sourcelink.json
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\bin\Debug\net8.0\SommaArray.exe
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\bin\Debug\net8.0\SommaArray.deps.json
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\bin\Debug\net8.0\SommaArray.runtimeconfig.json
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\bin\Debug\net8.0\SommaArray.dll
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\bin\Debug\net8.0\SommaArray.pdb
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\SommaArray.dll
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\refint\SommaArray.dll
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\SommaArray.pdb
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\SommaArray.genruntimeconfig.cache
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_3\SommaArray\obj\Debug\net8.0\ref\SommaArray.dll

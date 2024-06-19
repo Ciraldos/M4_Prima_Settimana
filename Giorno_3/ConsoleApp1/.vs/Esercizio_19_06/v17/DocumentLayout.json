@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C84B95E-6FF2-4CF8-8896-E5B6F9B3F548}|..\\SommaArray\\SommaArray.csproj|c:\\users\\andre\\desktop\\epicode1\\m4\\m4_prima_settimana\\giorno_3\\sommaarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38551C00-083D-4FD9-B293-C62B785A751F}|..\\NomiArray\\NomiArray.csproj|c:\\users\\andre\\desktop\\epicode1\\m4\\m4_prima_settimana\\giorno_3\\nomiarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,18 +26,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\SommaArray\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SommaArray\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\SommaArray\\Program.cs",
+              "RelativeToolTip": "..\\SommaArray\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:55:36.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\NomiArray\\Program.cs",
               "RelativeDocumentMoniker": "..\\NomiArray\\Program.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\NomiArray\\Program.cs",
               "RelativeToolTip": "..\\NomiArray\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAkwCwAAAAiAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvzQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T14:21:47.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ContoCorrente.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\ConsoleApp1\\ContoCorrente.cs",
               "RelativeDocumentMoniker": "ContoCorrente.cs",

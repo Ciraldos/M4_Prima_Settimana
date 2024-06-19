@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conto Corrente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d67cdbb9c0c1c3a8ba56a8624f723bf06333c01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d2c18dbf1d66252d4dec678de09c1b3ada0f5c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conto Corrente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conto Corrente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
