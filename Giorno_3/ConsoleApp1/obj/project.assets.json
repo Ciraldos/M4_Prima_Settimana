@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\ConsoleApp1\\Esercizio_19_06.csproj",
+      "projectName": "Esercizio_19_06",
+      "projectPath": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\ConsoleApp1\\Esercizio_19_06.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andre\\Desktop\\Epicode1\\M4\\M4_Prima_Settimana\\Giorno_3\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
