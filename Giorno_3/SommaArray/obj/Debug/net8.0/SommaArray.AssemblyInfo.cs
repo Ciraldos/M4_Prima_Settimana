@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SommaArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d2c18dbf1d66252d4dec678de09c1b3ada0f5c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23558cc2960bec2c391689e6c1a2116b91fee8a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SommaArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SommaArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

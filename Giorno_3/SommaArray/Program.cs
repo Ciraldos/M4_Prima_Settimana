@@ -19,6 +19,7 @@ public class Array
     {
         Console.WriteLine("Inserisci la dimensione dell'array:");
         int dim = int.Parse(Console.ReadLine());
+        Console.WriteLine("\n");
         int somma = 0;
         int media = 0;
         int pos = 0;
@@ -26,10 +27,11 @@ public class Array
 
         for (int i = 0; i < dim; i++)
         {
-            Console.WriteLine("Inserisci numero:");
+            Console.WriteLine($"Inserisci numero in posizione {i}:\n");
             ArrayNumeri[i] = int.Parse(Console.ReadLine());
+           
             somma += ArrayNumeri[i];
-            Console.WriteLine("Numero Aggiunto\n");
+            Console.WriteLine("***** NUMERO AGGIUNTO *****\n\n");
             pos++;
         }
         media = somma / pos;
