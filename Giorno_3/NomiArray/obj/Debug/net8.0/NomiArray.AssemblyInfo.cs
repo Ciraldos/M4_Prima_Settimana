@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Conto Corrente")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("NomiArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d67cdbb9c0c1c3a8ba56a8624f723bf06333c01")]
-[assembly: System.Reflection.AssemblyProductAttribute("Conto Corrente")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Conto Corrente")]
+[assembly: System.Reflection.AssemblyProductAttribute("NomiArray")]
+[assembly: System.Reflection.AssemblyTitleAttribute("NomiArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
