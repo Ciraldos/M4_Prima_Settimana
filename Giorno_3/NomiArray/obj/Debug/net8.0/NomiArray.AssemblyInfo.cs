@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NomiArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d2c18dbf1d66252d4dec678de09c1b3ada0f5c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb88e0493cf5c4b8cea1a86f4abde4032483884d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NomiArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NomiArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

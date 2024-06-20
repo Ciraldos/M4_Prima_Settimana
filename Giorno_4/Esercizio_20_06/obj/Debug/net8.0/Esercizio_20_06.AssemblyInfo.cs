@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Conto Corrente")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Esercizio_20_06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb88e0493cf5c4b8cea1a86f4abde4032483884d")]
-[assembly: System.Reflection.AssemblyProductAttribute("Conto Corrente")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Conto Corrente")]
+[assembly: System.Reflection.AssemblyProductAttribute("Esercizio_20_06")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Esercizio_20_06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.

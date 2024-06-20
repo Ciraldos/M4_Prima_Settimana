@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\Esercizio_20_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\Esercizio_20_06.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\Esercizio_20_06.AssemblyInfo.cs
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\Esercizio_20_06.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\Esercizio_20_06.sourcelink.json
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\bin\Debug\net8.0\Esercizio_20_06.exe
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\bin\Debug\net8.0\Esercizio_20_06.deps.json
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\bin\Debug\net8.0\Esercizio_20_06.runtimeconfig.json
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\bin\Debug\net8.0\Esercizio_20_06.dll
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\bin\Debug\net8.0\Esercizio_20_06.pdb
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\Esercizio_20_06.dll
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\refint\Esercizio_20_06.dll
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\Esercizio_20_06.pdb
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\Esercizio_20_06.genruntimeconfig.cache
+C:\Users\andre\Desktop\Epicode1\M4\M4_Prima_Settimana\Giorno_4\Esercizio_20_06\obj\Debug\net8.0\ref\Esercizio_20_06.dll
