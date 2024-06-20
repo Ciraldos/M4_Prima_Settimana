@@ -3,6 +3,10 @@
     public static string Username { get; set; }
     public static string Password { get; set; }
     public static string ConfermaPassword { get; set; }
+    
+    public static DateTime Data;
+
+    public static int cont = 0;
 
     public static bool isLogged = false;
 
@@ -53,7 +57,10 @@
             {
                 Console.WriteLine("Sei stato autenticato!");
                 isLogged = true;
+                Data = DateTime.Now;
+                cont++;
                 p.Start();
+                
             }
             else Console.WriteLine("Le password non coincidono");
         }
@@ -78,12 +85,25 @@
 
 
     }
-    private static void VerificaData() { }
-    private static void ListaAccessi() { }
-    private static void Esci() { }
+    private static void VerificaData() {
+        if (isLogged)
+        {
+            Console.WriteLine($"L'utente si è loggato alle ore {Data}");
+        }
+        else Console.WriteLine("ERRORE: Nessun utente è al momento loggato");
+    }
+    private static void ListaAccessi() {
+        Program p = new Program();
+        Console.WriteLine($"L'utente si è loggato {cont} volte");
+        p.Start();
+    }
+    private static void Esci() { 
+        Environment.Exit(0);
+    }
 
     public static void Main(string[] args)
-    {
+    
+        { 
         Program program = new Program();
         program.Start();
     }
